@@ -1,0 +1,16 @@
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\CustomerDAO.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\DAOInterface.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\EmployeeDAO.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\Invoice_detailDAO.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\InvoiceDAO.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\ProductDAO.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\dao\PromotionDAO.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\model\Customer.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\model\Employee.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\model\Invoice.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\model\Invoice_detail.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\model\Product.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\model\Promotion.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\test\Test.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\util\HibernateUtil.java
+D:\Java\Java Database Connectivity (JDBC)\Project Eclipse\Hibernate_KFCFood\src\main\java\vn\nvt\Hibernate_KFCFood\App.java

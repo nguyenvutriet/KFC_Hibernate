@@ -1,0 +1,16 @@
+model\Promotion.class
+dao\CustomerDAO.class
+dao\InvoiceDAO.class
+model\Invoice.class
+test\Test.class
+dao\PromotionDAO.class
+model\Invoice_detail.class
+util\HibernateUtil.class
+vn\nvt\Hibernate_KFCFood\App.class
+dao\DAOInterface.class
+model\Product.class
+model\Employee.class
+dao\Invoice_detailDAO.class
+dao\EmployeeDAO.class
+dao\ProductDAO.class
+model\Customer.class
